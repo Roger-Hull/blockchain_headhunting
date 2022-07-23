@@ -63,6 +63,7 @@ w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 # function. This function will create the Fintech Finder customer’s (in this
 # case, your) HD wallet and Ethereum account.
 
+
 # 5. Within this same section of the `fintech_finder.py` file, define a
 # new `st.sidebar.write` function that will display the balance of the
 # customer’s account. Inside this function, call the `get_balance` function
